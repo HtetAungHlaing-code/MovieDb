@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611055110786",
+    "firebase_url": "https://moviedb-e02ce.firebaseio.com",
+    "project_id": "moviedb-e02ce",
+    "storage_bucket": "moviedb-e02ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611055110786:android:10a174df0844dee43a429b",
+        "android_client_info": {
+          "package_name": "com.tmdb.flutter_tmdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611055110786-28oe7udfvkr5b50i4rq2ibmevaosuine.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8SE6vaJ6ERiEOSRvwWDE4FISzdOhKn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611055110786-28oe7udfvkr5b50i4rq2ibmevaosuine.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
